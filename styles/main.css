@@ -46,7 +46,7 @@ li a {
     color: #ffffff;
 }
 
-li a:hover{
+header li a:hover{
     color: #5863F8;
 }
 
@@ -191,3 +191,247 @@ margin-left: 20px;
     margin-top: 85px 
 
 }
+
+.for_inputs  {
+    width: 1349px;
+    height: 190px;
+background: #f8f8f8;
+    margin-top: 71px;
+    
+}
+
+.info{
+    display: flex;
+    width: 100%;
+    max-width: 1088px;
+    margin: 0 auto;
+
+    
+}
+
+.info form{
+    display: flex;
+    
+}
+
+.check_in{
+    width: 100px;
+    margin-top: 55px;
+}
+
+.check_out{
+    width: 100px;
+    margin-top: 55px;
+    margin-left: 180px;
+}
+
+.room{
+    width: 100px;
+    margin-top: 55px;
+    margin-left: 180px;
+
+}
+
+.submit{
+    width: 100px;
+    margin-top: 73px;
+    margin-left: 180px;
+    
+
+}
+
+.check_in label a{
+    width: 78px;
+height: 16px;
+font-size: 13px;
+text-align: left;
+color: #5863f8;
+}
+
+.check_in input{
+    width: 260px;
+height: 60px;
+border-color: #ebebeb;
+border-width: 2px;
+border-style: solid;
+background: #ffffff
+}
+.check_out label a{
+    width: 78px;
+height: 16px;
+font-size: 13px;
+text-align: left;
+color: #5863f8;
+}
+
+.check_out input{
+    width: 260px;
+height: 60px;
+border-color: #ebebeb;
+border-width: 2px;
+border-style: solid;
+background: #ffffff
+}
+
+.room label a{
+    width: 78px;
+height: 16px;
+font-size: 13px;
+text-align: left;
+color: #5863f8;
+}
+
+.room input{
+    width: 260px;
+height: 60px;
+border-color: #ebebeb;
+border-width: 2px;
+border-style: solid;
+background: #ffffff
+}
+
+.submit input{
+    width: 260px;
+height: 60px;
+color: #ffffff;
+cursor: pointer;
+
+background: #5863f8
+}
+
+footer{
+    
+    height: 395px;
+    background-color: #121212;
+}
+
+.footer{
+    width: 90%;
+    max-width: 1100px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+
+.texts h2{
+    width: 139px;
+height: 28px;
+font-size: 24px;
+text-align: left;
+color: #ffffff;
+}
+
+.texts p{
+    width: 260px;
+height: 83px;
+font-size: 14px;
+text-align: left;
+margin-top: 22px;
+color: #b1b1b1;
+}
+
+.texts{
+    margin-top: 94px;
+}
+
+
+
+.footer h3{
+    margin-bottom: 23px;
+    width: 94px;
+height: 21px;
+font-size: 18px;
+text-align: left;
+color: #ffffff;
+}
+
+.links ul li a{
+    width: 30px;
+height: 17px;
+font-size: 14px;
+text-align: left;
+color: #5863f8;
+}
+
+
+
+.privacy ul li a{
+    width: 30px;
+height: 17px;
+font-size: 14px;
+text-align: left;
+color: #5863f8;
+}
+
+.contact ul li a{
+    width: 137px;
+    height: 17px;
+    font-size: 14px;
+    text-align: left;
+    color: #ffffff;
+}
+
+.socialmedia{
+    margin-top: 30px;
+    display: flex;
+}
+
+.socialmedia div{
+    width: 35px;
+    height: 35px;
+    
+   
+}
+
+
+.socialmedia div a{
+    color: white;
+}
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+
+.fa-facebook {
+    
+    background: #3B5998;
+    color: white;
+  }
+
+.fa-twitter {
+    margin-left: 30px;
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-google {
+    margin-left: 60px;
+    background: #dd4b39;
+    color: white;
+  }
+
+  .paragrap{
+    display: flex;
+    margin-top: 56px;
+    gap: 419px;
+  }
+
+  .paragrap p{
+    color: #B1B1B1;
+  }
+
+  .paragrap p a{
+    color: #5863F8;
+  }
+
+  .paragrap a{
+    color: #5863F8;
+  }
+
