@@ -51,10 +51,12 @@ header li a:hover{
 }
 
 .rooms{
-    width: 140px;
+    width: 90%;
     height: 50px;
     margin-left: 139px;
     margin-top: 103px;
+    max-width: 1079px;
+    margin: 0 auto;
 }
 
 .rooms h3{
@@ -66,10 +68,12 @@ color: #ffffff;
 }
 
 .home_room{
-    width: 100px;
+    width: 90%;
     height: 25px;
     margin-left: 139px;
-    margin-top: 21px;
+    margin-top: 40px;
+    max-width: 1079px;
+    margin: 0 auto;
 }
 
 .home_room a{
